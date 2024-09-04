@@ -1,0 +1,17 @@
+{
+    "name": "alexanderojeniweh/internet-banking-php",
+    "description": "internet banking application",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alexander ojeniweh",
+            "email": "ojeniwehalexander@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "sendgrid/sendgrid": "^8.1"
+    }
+}
